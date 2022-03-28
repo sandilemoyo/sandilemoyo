@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandilemoyo
 - 👀 I’m interested in Cybersecurity, Pentesting, Technical Support, IT Governance, Digital Transformation
 - 🌱 I’m currently learning CISSP
-- 💞️ I’m looking to collaborate on Threat Intelligence and penetration detection
+- 💞️ I’m looking to collaborate on Threat Intelligence, Penetration Testing and Technical Support
 - 📫 How to reach me @_sandilemoyo (twitter)
 
 <!---
